@@ -3,7 +3,7 @@
 [!https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username={moonjikwang(string)})](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username={moonjikwang})](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **moonjikwang/moonjikwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
