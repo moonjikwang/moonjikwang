@@ -1,5 +1,6 @@
-### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonjikwang&count_bg=%232943CB&title_bg=%23070707&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) <a href="mailto:moonjikwang@naver.com" target="_blank"><img src="https://img.shields.io/badge/moonjikwang@naver.com-FFE01B?style=flat&logo=Gmail&logoColor=white"/></a>
+<div align=center><h1>### Hi there 👋 </h1></div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonjikwang&count_bg=%237587E5&title_bg=%23C5C5C5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=moonjikwang)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonjikwang)](https://github.com/anuraghazra/github-readme-stats)
