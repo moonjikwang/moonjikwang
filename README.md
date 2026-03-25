@@ -1,1 +1,1 @@
-blog - https://jikwang.net
+DDGG Labs - https://jikwang.net
