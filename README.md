@@ -9,6 +9,7 @@ WAF rules, automatic IP bans, a browser challenge, an "under attack" mode, a wai
 spikes, and a live traffic monitor. One container (OpenResty + Go), amd64/arm64, Apache-2.0.
 
 - Docs: [corvusgateway.org](https://corvusgateway.org) · Korean book: [WikiDocs](https://wikidocs.net/book/22096)
+- Video: [2-minute intro on YouTube](https://youtu.be/wtd2yBssBUk) · channel [@CorvusGateway](https://www.youtube.com/@CorvusGateway)
 - Articles on [dev.to](https://dev.to/moonjikwang): reverse proxies on another server, upstream keep-alive, patching nginx CVEs into OpenResty
 - Questions and ideas: [Discussions](https://github.com/corvus-gateway/corvus/discussions)
 
